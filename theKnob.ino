@@ -8,7 +8,7 @@
  */
 
 //includings
-#include <ButtonEvents.h> //buttton lib --> https://github.com/fasteddy5/ButtonEvents
+#include <ButtonEvents.h> //buttton lib --> https://github.com/fasteddy516/ButtonEvents
 #include "HID-Project.h" //lib for make easier using of HID functions --> https://github.com/NicoHood/HID
 #include <Encoder.h>  //rotaary encoder lib  --> https://github.com/PaulStoffregen/Encoder
 #include "FastLED.h"  //led controll lib --> https://github.com/FastLED/FastLED
